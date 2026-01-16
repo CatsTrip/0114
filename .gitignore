@@ -1,0 +1,69 @@
+# Runtime 和临时目录
+源码/Application/Runtime/
+Runtime/
+runtime/
+
+# 日志文件
+*.log
+
+# 编辑器配置
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 依赖目录
+node_modules/
+vendor/
+composer.lock
+
+# 构建输出
+dist/
+build/
+out/
+
+# 数据库相关（如果备份文件很大）
+*.sql.bak
+*.sql.backup
+
+# 上传文件目录
+源码/Public/uploads/*
+源码/Public/Uploads/*
+!/源码/Public/uploads/.gitkeep
+!/源码/Public/Uploads/.gitkeep
+
+# 备份文件目录
+image备份/
+
+# IDE 临时文件
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+
+# 缓存
+.cache/
+*.cache
+
+# 其他临时文件
+*.tmp
+*.temp
+*.bak
+
+# 微信小程序编译文件
+前端/miniprogram_npm/
+前端/.remote/
+
+# NPM 全局安装版本
+package-lock.json
+yarn.lock
