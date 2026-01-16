@@ -40,15 +40,21 @@
     "minifyWXML": true,
     "showES6CompileOption": false,
     "useCompilerPlugins": false,
-    "ignoreUploadUnusedFiles": true
+    "ignoreUploadUnusedFiles": true,
+    "compileWorklet": false,
+    "localPlugins": false,
+    "condition": false,
+    "swc": false,
+    "disableSWC": true
   },
   "compileType": "miniprogram",
   "libVersion": "2.15.0",
-  "appid": "wx3651422e8144ca26",
+  "appid": "wx89a975152a6d8a97",
   "projectname": "%E5%B0%8F%E4%BA%8C%E6%BA%90%E7%A0%81%E5%8D%9A%E5%AE%A2%E3%80%90www.52pojie.cn%E3%80%91",
   "condition": {},
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
-  }
+  },
+  "simulatorPluginLibVersion": {}
 }
