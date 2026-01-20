@@ -5,7 +5,7 @@ return array(
     'DB_HOST'               =>  'localhost',     // 服务器地址
     'DB_NAME'               =>  'sql_mayijiaoyi_com',     // 数据库名
     'DB_USER'               =>  'sql_mayijiaoyi_com',     // 用户名
-    'DB_PWD'                =>  '3b81d445100c28',      // 密码
+    'DB_PWD'                =>  'f139b893bf64b8',      // 密码
     'DB_PORT'               =>  '3306',     // 端口
     'DB_PREFIX'             =>  'zm_',   // 数据库表前缀
 	// URL地址不区分大小写

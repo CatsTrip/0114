@@ -191,7 +191,7 @@ __webpack_require__(/*! vuex */ 156);function _interopRequireDefault(obj) {retur
         desc: '登录',
         success: function () {var _success = _asyncToGenerator( /*#__PURE__*/_regenerator.default.mark(function _callee(infoRes) {return _regenerator.default.wrap(function _callee$(_context) {while (1) {switch (_context.prev = _context.next) {case 0:
                     uni.request({
-                      url: 'https://www.52pojie.cn/App/Zm/oneRegister',
+                      url: 'http://mayijiaoyi.com:777/App/Zm/oneRegister',
                       header: {
                         'content-type': 'application/x-www-form-urlencoded' },
 
